@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _10.If_bid_at_posit_P_is_1_or_0
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
